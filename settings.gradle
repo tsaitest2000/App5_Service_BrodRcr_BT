@@ -1,0 +1,1 @@
+include ':c26_02_ShowService', ':c26_03_StartService', ':c27_01_StartService2', ':c27_02_BindService', ':c28_01_BindServ_YahooFinance', ':c28_02_ScreenReceiver', ':c30_01_BlueTooth', ':c30_02_ShowPairedBTDevices'
